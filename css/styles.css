@@ -39,7 +39,7 @@ body {
     font-family: var(--second-family);
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--iris);
@@ -53,86 +53,38 @@ body {
     color: var(--navy-blue);
  }
 
- .studio {
+ .menu-nav {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
     font-size: 16px;
     color: #2e2f42;
  }
-.studio:hover {
+.menu-nav:hover {
    color: #404bbf;
 }
-.studio:focus {
+.menu-nav:focus {
    color: #404bbf;
 }
-
- .portfolio {
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    font-size: 16px;
-    color: #2e2f42;
- }
-
- .portfolio:hover {
-    color: #404bbf;
- }
-
- .portfolio:focus {
-    color: #404bbf;
- }
-
-  .contacts {
-     font-weight: 500;
-     line-height: 1.5;
-     letter-spacing: 0.02em;
-     font-size: 16px;
-     color: #2e2f42;
-  }
-
-  .contacts:hover {
-     color: #404bbf;
-  }
-
-  .contacts:focus {
-     color: #404bbf;
-  }
 
  .address {
    font-style: normal;
  }
 
- .mail {
+ .contacts {
    line-height: 1.5;
    font-size: 16px;
    letter-spacing: 0.02em;
    color: #434455;
 
  }
- .mail:hover {
+ .contacts:hover {
    color: #404bbf;
  }
  
- .mail:focus {
+ .contacts:focus {
     color: #404bbf;
  }
-
-  .tel {
-     line-height: 1.5;
-     font-size: 16px;
-     letter-spacing: 0.02em;
-     color: #434455;
-
-  }
-
-  .tel:hover {
-     color: #404bbf;
-  }
-
-  .tel:focus {
-     color: #404bbf;
-  }
  .hero {
     font-weight: 700;
     line-height: 1.07;
@@ -158,14 +110,14 @@ body {
  }
 
  .button:hover {
-    color: #404BBF;
+   background-color: #404BBF;
  }
  .button:focus {
-   color: #404BBF;
+   background-color: #404BBF;
  }
 
 
- .section2-title {
+ .section-two-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -180,10 +132,10 @@ body {
     color: var(--slate);
  }
 
- .ground-section3 {
+ .ground-section-three {
     background: #F4F4FD;
  }
- .section3-title {
+ .section-three-title {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -200,6 +152,7 @@ body {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+    background-color: #FFFFFF;
     color: var(--navy-blue)
  }
 
@@ -207,10 +160,11 @@ body {
     letter-spacing: 0.02em;
     font-size: 16px;
     line-height: 1.5;
+    background-color: #FFFFFF;
     color: var(--slate);
  }
 
- .section4-title {
+ .section-four-title {
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
