@@ -145,14 +145,15 @@ body {
     color: var(--navy-blue)
  }
 
-
+.fon-img {
+   background-color: #FFFFFF;
+}
 
  .name {
     letter-spacing: 0.02em;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    background-color: #FFFFFF;
     color: var(--navy-blue)
  }
 
@@ -160,7 +161,6 @@ body {
     letter-spacing: 0.02em;
     font-size: 16px;
     line-height: 1.5;
-    background-color: #FFFFFF;
     color: var(--slate);
  }
 
