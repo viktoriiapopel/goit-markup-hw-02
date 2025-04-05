@@ -145,8 +145,8 @@ body {
     color: var(--navy-blue)
  }
 
-.fon-img {
-   background-color: #FFFFFF;
+.fon_img {
+   background-color: #fff;
 }
 
  .name {
